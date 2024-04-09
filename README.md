@@ -86,6 +86,8 @@
 
 ![alt text](https://github.com/Marsianec/homework21-1/blob/main/img/1.png)  
 
+---
+
 ### Задание 9  
 
 ![alt text](https://github.com/Marsianec/homework21-1/blob/main/img/2.png)  
